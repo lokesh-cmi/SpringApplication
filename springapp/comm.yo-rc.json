@@ -1,0 +1,8 @@
+[
+  {
+    "client": "tektonfe",
+    "server": "springapp",
+    "type": "sync",
+    "framework": "rest-api"
+  }
+]
